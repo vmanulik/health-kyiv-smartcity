@@ -5,7 +5,9 @@ namespace HealthSmartCity.Infrastructure.Interfaces
 {  
     public interface IDataContext
     {
-        DbSet<DataRecord> Patients { get; set; }
+        DbSet<DataRecord> DataRecords { get; set; }
+
+        DbSet<User> Users { get; set; }
 
         void Save();
     }

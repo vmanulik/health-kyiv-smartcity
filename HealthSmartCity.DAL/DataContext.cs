@@ -10,7 +10,9 @@ namespace HealthSmartCity.DAL
         {
             public DataContext() : base("name=DataContext") { }
 
-            public DbSet<DataRecord> Patients { get; set; }
+            public DbSet<DataRecord> DataRecords { get; set; }
+
+            public DbSet<User> Users { get; set; }
 
             public void Save()
             {
