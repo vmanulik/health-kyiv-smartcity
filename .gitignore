@@ -4,4 +4,10 @@ HealthSmartCity.UI/bin/
 HealthSmartCity.UI/obj/
 HealthSmartCity.DAL/bin/
 HealthSmartCity.DAL/obj/
+HealthSmartCity.DAL/obj/
+HealthSmartCity.Model/bin/
+HealthSmartCity.Model/obj/
+HealthSmartCity.Infrastructure/bin/
+HealthSmartCity.Infrastructure/obj/
 packages/
+.vs/HealthSmartCity/v14/.suo
