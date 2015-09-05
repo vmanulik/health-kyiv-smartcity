@@ -1,0 +1,7 @@
+HealthSmartCity.API/bin/
+HealthSmartCity.API/obj/
+HealthSmartCity.UI/bin/
+HealthSmartCity.UI/obj/
+HealthSmartCity.DAL/bin/
+HealthSmartCity.DAL/obj/
+packages/
